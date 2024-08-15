@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/longest-valid-parentheses/submissions/
+// https://leetcode.com/problems/longest-valid-parentheses
 #include <bits/stdc++.h>
 
 using namespace std;
